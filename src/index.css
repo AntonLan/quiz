@@ -1,0 +1,54 @@
+body {
+    background-color: #FDF5BF;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.card-game {
+    position: center;
+    border-radius: 10px !important;
+    width: 33rem;
+    height: 45rem;
+    box-shadow: 4px 4px 20px 0 rgba(0, 0, 0, 0.05);
+}
+
+.padding-result {
+    padding-top: 20px;
+}
+
+.padding-game {
+    padding-top: 20px;
+    margin-bottom: 10rem;
+}
+
+
+
+.padding-progress {
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.btn-color {
+    height: 4rem;
+    width: 25rem;
+    margin: 23px 60px 0 66px;
+    border-radius: 10px;
+    background-color: #4a137f !important;
+    color: #ffffff;
+    box-shadow: 4px 4px 20px 0 rgba(0, 0, 0, 0.05);
+
+}
+
+.margin-top {
+    margin-top: 20px;
+}
+
+.img-size {
+    position: center;
+    width: 30rem;
+    height: 30rem;
+}
